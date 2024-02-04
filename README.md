@@ -5,8 +5,8 @@ Ejercicio numero 1 practico de React de Rolling Code School
 Crear una aplicación web con un componente que muestre en pantalla el mensaje “Hello World”.
 
 ## HERRAMIENTAS UTILIZADAS 🛠
-Visual studio code.
-React
+- Visual studio code.
+- React
 
 ## ANOTACIONES 🔍
 -
